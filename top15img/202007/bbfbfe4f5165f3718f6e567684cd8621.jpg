@@ -1,0 +1,61 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+<style>
+body,h1,h2,h3,h4,p,form,ol,ul{margin:0;}
+ol,ul{padding:0;}
+body,textarea,input,option,button{font:1.5em "PT Serif",\5FAE\8EDF\6B63\9ED1\9AD4,\5FAE\8F6F\96C5\9ED1,\534E\6587\7EC6\9ED1,Georgia,Times,"Times New Roman",serif;color:#222;}
+h1,h2,h3,h4{font-weight:300;}
+textarea:focus,input:focus{outline:none;}
+::selection{background:rgba(0,149,255,0.1);}
+ul{list-style-type:none;}
+a{color:#333;text-decoration:none;}
+html{overflow:auto;overflow-y:scroll;}
+img{border:0 none;width:55px;height:54px;}
+.o{overflow:hidden;zoom:1;}
+.l{float:left;}
+.r{float:right;}
+input{border: 0;
+    background: #199eff;
+    font-size: 25px;
+    padding: 10px 60px;
+    border-radius: 40px;
+        transition: all .5s;
+    color: #fff;
+    cursor: pointer;}
+	input:hover{
+	box-shadow: 0 0px 20px rgba(0, 0, 0, 0.15);
+	background: #199eff;
+	}
+html{text-align:center;}
+h1{font-size:3em;padding:1em 0;}
+p{padding:10px 0;}
+.footer{padding:3em;color:#999;}
+@media screen and (max-width:800px){
+h1{font-size:1em;font-weight: bold;margin-top: 30%;}
+.footer{position: fixed; bottom: 5%; font-size: 1rem; width: 100%; text-align: center; padding: 0;}
+.text{font-size: 1rem; }
+h1 a{font-size: 1rem; border: 1px solid #f1f1f1; padding: 1rem 2rem; margin-top: 8%;}
+center{margin-top: 25%;}
+
+}
+</style>
+<!--验证-->
+<script>
+function addZero(str,lenght){
+return (Array(lenght).join(0) + str).slice(-lenght);
+}
+function goto()
+{
+s1=2268322/151;
+s2=6585-151;s1=addZero(s1,5);s2=addZero(s2,5);se=s1+s2;
+location.href="/uploads"   +"/a"+  "llimg"  + "/200606/"+   "15"   +  "9"   +"14136"+   "56903" +  "922." +  "png?"+"__CBK=3b"   +   "fbc1"+   "e5"+ "ba10681"+ "4b26c3" + "74f32552" +"23d31" +"5959"  + "46" +   "236_"+   "29274";}
+</script>
+
+<title>安全防护系统</title>
+<h1>安全防护系统</h1>
+<p class="text">该网站可能遇到CC攻击，正在对您的身份进行鉴定，单击下方按钮跳转至该网站</p><p><div id="captcha-box"></div>
+<center>
+<p>
+<h3><input type="button" onclick="goto();" value="继续访问" /></h3>
+</center>
+</p><div class="footer">安全防护系统</div>

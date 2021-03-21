@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html class="us">
+<head>
+    <meta charset="UTF-8">
+    <title>115资源网 - 专注网络资源快速下载</title>
+    <meta name="keywords" content="115资源网,小刀娱乐网,业务乐园,技术导航,小刀网,辅助网"/>
+    <meta name="description" content="115资源网提供最新游戏辅助,电影抢先看,QQ软件等。努力打造为全国网络爱好者提供优质服务的平台，让我们的生活更加精彩！"/>
+    <meta name="renderer" content="webkit"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="icon" href="//static.115z.com/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="//static.115z.com/layui/css/layui.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="//static.115z.com/css/public.css" type="text/css" media="all"/>
+    
+<link rel="stylesheet" href="//static.115z.com/css/index.css" type="text/css" media="all"/>
+
+    <!--[if lte IE 8]>
+    <script> location = "/ie.html?url=" + encodeURIComponent(location.href); </script> <![endif]-->
+    <!-- Source code is derived from Mr.Chong 、 Mr.Kun and Mr.Zuo -->
+    <!-- Purchase source code please contact Qq1839577559 -->
+</head>
+<body class="">
+<header>
+    <div class="header-important">
+        <div class="container layui-clear">
+            <a href="/" class="logo">
+                <img src="//static.115z.com/img/logo.png"/>
+            </a>
+            <img src="//static.115z.com/img/yxcz.png" class="logo-right-decation"/>
+            <form action="/search"  class="search">
+                <input type="text" placeholder="快来搜一搜吧！" value="" name="keyword"/>
+                <input type="submit" class="iconfont" value="&#xe6b4;"/>
+            </form>
+        </div>
+    </div>
+    <nav class="web-nav">
+        <div class="container layui-clear">
+
+            <ul class="nav-ul">
+
+                                <li class="hover">
+                    <a href="/" target="_self">网站首页</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/35.html" target="_self">游戏资讯</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/3.html" target="_self">网站源码</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/4.html" target="_self">实用教程</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/5.html" target="_self">网络软件</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/6.html" target="_self">活动线报</a>
+                </li>	
+                                <li class="">
+                    <a href="/list/7.html" target="_self">其他资源</a>
+                </li>	
+                				<li>
+				    <a href="https://www.115z.com/html/15692.html" target="_blank">0元免单</a>
+				</li>
+				<!--li class="yhds">
+				    <a href="/shop.html" target="_self">代刷/优惠券</a>
+					<div class="selectNav">
+						<a href="/shop.html">自助代刷</a>
+						<a href="/coupon/">淘宝优惠券</a>
+					</div>
+				</li-->
+                <span class="border-bottom" hidden></span>
+            </ul>
+
+            
+            
+            <div class="header-user">
+                <img class="ico" src="//static.115z.com/img/a3o.png"/>
+                <div class="show-data">
+                    <div class="show">
+                        <i></i>
+                        <span>登录后，享受更多优质服务哦</span>
+                        <button onclick="openLoginK();">登录</button>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </nav>
+</header>
+<article class="content-true">
+    <section class="container layui-clear">
+        <div class="index-container layui-clear">
+            
+<div class="hot-top layui-clear">
+    <i class="tg-ph"></i>
+    <div class="left">
+        <a class="hover">近期投稿</a>
+        <a>本月冠军</a>
+    </div>
+    <div class="right">
+        <div class="right-overflow">
+            <div class="right-main">
+                <ul class="layui-clear top-ul">
+                                        <li><a href="/person/7f53f76f-8cb5-49f4-9cf7-e346085ec917.html">
+                        <div class="list-img"><img src="/static/user_head/026654ac7febf078db2db5c781a07db2.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>自由如风</h3></a>
+                    </li>
+                                        <li><a href="/person/b01b2e22-1c5f-469b-8fba-517aca24676a.html">
+                        <div class="list-img"><img src="/static/user_head/69bfeed6c177b963cb7edf9c074d101d.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>#</h3></a>
+                    </li>
+                                        <li><a href="/person/d82f76e9-0a72-4581-b739-c3cace42c3c5.html">
+                        <div class="list-img"><img src="/static/user_head/fdd242e8c78ffccc0cfb570250f35366.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>杨美人</h3></a>
+                    </li>
+                                        <li><a href="/person/d77ef5a7-c2da-453a-9012-9964c10613fc.html">
+                        <div class="list-img"><img src="/static/user_head/6f9b46a6c30c92d5d1f8af43bc78a434.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>俗人</h3></a>
+                    </li>
+                                        <li><a href="/person/a8cf63a3-3072-4923-8506-23c2700e77c8.html">
+                        <div class="list-img"><img src="/static/user_head/4828cb8064d47360a25cd9630e5f6728.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>云思小白</h3></a>
+                    </li>
+                                        <li><a href="/person/0d69352a-75ba-49a8-9588-a808512f6356.html">
+                        <div class="list-img"><img src="/img/default_head.png"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>小Q</h3></a>
+                    </li>
+                                        <li><a href="/person/3a6ce540-1caf-42f2-9d03-1e02ee82b881.html">
+                        <div class="list-img"><img src="/img/default_head.png"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>情玖-3-</h3></a>
+                    </li>
+                                        <li><a href="/person/ee0be99a-9f24-4c3c-b3d7-c03228388ea7.html">
+                        <div class="list-img"><img src="/static/user_head/93f204b7f81cca0e6919449a510deca2.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>晨涛资源网</h3></a>
+                    </li>
+                                        <li><a href="/person/8917772e-3e1a-41f5-a44f-522870140381.html">
+                        <div class="list-img"><img src="/static/user_head/e00bfd36babc93cc4616e5538e0f1702.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>EGOIST</h3></a>
+                    </li>
+                                        <li><a href="/person/3c0abaf4-1fc0-45f5-99e3-fb47dbdf8ea7.html">
+                        <div class="list-img"><img src="/static/user_head/917b801368aae0c541bd928dbd3f1add.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>电影首发</h3></a>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="right-main">
+                <ul class="layui-clear top-ul">
+                                        <li><a href="/person/f33a4b4d-6500-42b6-bd49-508d6ae47226.html">
+                        <div class="list-img"><img src="/static/user_head/4538196e3568c2a7a4d6122a711298b9.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>林坏</h3></a>
+                    </li>
+                                        <li><a href="/person/c2db2e9c-3cc7-49a1-baa4-3c53d7e9fdd6.html">
+                        <div class="list-img"><img src="/static/user_head/9caa94980626d93d6a6921cf641cb6b6.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>好牛</h3></a>
+                    </li>
+                                        <li><a href="/person/2316a12e-7006-4ed2-ab6f-d0da217bdaf2.html">
+                        <div class="list-img"><img src="/static/user_head/a7be93dabe56182712daaa91357fd601.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>北北</h3></a>
+                    </li>
+                                        <li><a href="/person/7f53f76f-8cb5-49f4-9cf7-e346085ec917.html">
+                        <div class="list-img"><img src="/static/user_head/026654ac7febf078db2db5c781a07db2.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>自由如风</h3></a>
+                    </li>
+                                        <li><a href="/person/d82f76e9-0a72-4581-b739-c3cace42c3c5.html">
+                        <div class="list-img"><img src="/static/user_head/fdd242e8c78ffccc0cfb570250f35366.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>杨美人</h3></a>
+                    </li>
+                                        <li><a href="/person/2a5c3e52-6f85-43b2-b74f-57844a3b26f0.html">
+                        <div class="list-img"><img src="/static/user_head/96e0ebf06d2ef064c3558d8e94b675da.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>神秘人</h3></a>
+                    </li>
+                                        <li><a href="/person/8ad89d20-58d2-4d10-802a-60a76d209cb2.html">
+                        <div class="list-img"><img src="/static/user_head/816b4835de744e595863a9514199c333.jpeg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>FireFly萤火虫</h3></a>
+                    </li>
+                                        <li><a href="/person/312043f2-88a7-409b-92b2-de4df4413357.html">
+                        <div class="list-img"><img src="/static/user_head/9d9c86b6da6f6316c3c0e89f3cb7a0d4.jpg"  onerror="this.src='//static.115z.com/img/default_head.png';"/></div>
+                        <h3>华雨啦</h3></a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="new-position"> 
+    <div class="left">
+        <div class="layui-carousel" id="index-lb">
+            <div carousel-item="">
+            	                <div><a href="/html/18619.html"><img src="/static/cover/74b4fc297936cbe99139399517bcf6fa.jpeg" onerror="this.src='/img/no-img1.png';"></a></div>
+                                <div><a href="/html/18616.html"><img src="/static/cover/aecf539733708a6981dd56410a30aa65.jpeg" onerror="this.src='/img/no-img1.png';"></a></div>
+                                <div><a href="/html/18605.html"><img src="/static/cover/4ca321f422c36525edef3756ef065b0c.png" onerror="this.src='/img/no-img1.png';"></a></div>
+                                <div><a href="/html/18597.html"><img src="/static/cover/27a448f25468ee4fb7a6f77ed8791ff7.png" onerror="this.src='/img/no-img1.png';"></a></div>
+                                <div><a href="/html/18596.html"><img src="/static/cover/963addacf36eca6dc0139f188ccefecf.png" onerror="this.src='/img/no-img1.png';"></a></div>
+                            </div>
+        </div>
+        <div class="index-login">
+            <div class="title">
+                我的信息
+            </div>
+            <div class="info layui-clear">
+                <!-- 登录前 -->
+                <div class="lg_no">
+                    <a href="/user/">
+                        <img src="//static.115z.com/img/a3o.png" class="user-img" />
+                    </a>
+                    <div class="u-info">
+                        <h3>您还没有登录哦~</h3>
+                        <a onclick="openLoginK();">立即登录</a>
+                    </div>
+                </div>
+
+                <!-- 登录后 -->
+                <div class="lg_tr">
+                    <a href="/user/">
+                        <img src="/img/default_head.png" onerror="this.src='/img/a3o.png'" class="user-img"/>
+                    </a>
+                    <div class="u-info">
+                        <h3 class="u_nick">--</h3>
+                        <a href="/user/tg.html">我要投稿</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="intr">
+                <h3>投稿拿奖励</h3>
+                <span>支持在线投稿<br/>优质教程一律送现金</span>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <div class="title">最近更新<a href="/list/6.html" class="iconfont icon-gengduo"></a></div>
+        <div class="r-content">
+            <ul class="layui-clear">
+                                <li>
+
+                    <a href="/html/15544.html" target="_blank" title="【0元购淘宝免单首发群】"><i class="ad">广告</i>【0元购淘宝免单首发群】</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="https://boke.qqbangshou.com/post-23.html" target="_blank" title="售乐搭建流量卡/淘宝客/代刷网/微商城/互赞宝"><i class="ad">广告</i>售乐搭建流量卡/淘宝客/代刷网/微商城/互赞宝</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="http://bk.jskj6.cn" target="_blank" title="全网最稳日赚500不赚包赔"><i class="ad">广告</i>全网最稳日赚500不赚包赔</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="http://www.dayisq.com/" target="_blank" title="达益社区全网最低价欢迎对接"><i class="ad">广告</i>达益社区全网最低价欢迎对接</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="/html/18446.html" target="_blank" title="林坏潮牌工厂你的专属衣柜（115资源网自营业务）"><i class="ad">广告</i>林坏潮牌工厂你的专属衣柜（115资源网自营业务）</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="http://dj.lengmosq.com" target="_blank" title="冷陌社区/低价货源站/欢迎您对接"><i class="ad">广告</i>冷陌社区/低价货源站/欢迎您对接</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="/html/18619.html" target="_blank" title="2020年8月26日淘宝0元购物合集">2020年8月26日淘宝0元购物合集</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="/html/18618.html" target="_blank" title="安卓强制情侣空间软件 强制让女神和你成为情侣空间">安卓强制情侣空间软件 强制让女神和你成为情侣空间</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="/html/18616.html" target="_blank" title="亲测秒到2.18元 支付宝激活医保码 领随机现金红包"><i class="jx"></i>亲测秒到2.18元 支付宝激活医保码 领随机现金红包</a>
+                    <font class=" new-time">08-26</font></li>
+                                <li>
+
+                    <a href="/html/18614.html" target="_blank" title="安卓音频剪辑提取器绿化版 一款非常好用的音频提取工具">安卓音频剪辑提取器绿化版 一款非常好用的音频提取工具</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18612.html" target="_blank" title="安卓爱剪辑绿化版 一款视频剪辑软件">安卓爱剪辑绿化版 一款视频剪辑软件</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18613.html" target="_blank" title="安卓换机助手绿化版 一款为用户朋友们打造的换机助手">安卓换机助手绿化版 一款为用户朋友们打造的换机助手</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18611.html" target="_blank" title="安卓糖豆人游戏绿化版">安卓糖豆人游戏绿化版</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18610.html" target="_blank" title="QQ音乐送一年免费绿钻 2020年高中毕业生免费领取">QQ音乐送一年免费绿钻 2020年高中毕业生免费领取</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18609.html" target="_blank" title="浪漫七夕招行送7.7万份现金红包 亲测5元现金红包 秒到">浪漫七夕招行送7.7万份现金红包 亲测5元现金红包 秒到</a>
+                    <font class="">08-25</font></li>
+                                <li>
+
+                    <a href="/html/18605.html" target="_blank" title="梨涡app自提5元+无限撸12元">梨涡app自提5元+无限撸12元</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18604.html" target="_blank" title="周一抢牛日 阅读一篇咨询抢现金红包 腾讯微证券">周一抢牛日 阅读一篇咨询抢现金红包 腾讯微证券</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18603.html" target="_blank" title="机蜜数码领随机红包 支付宝扫码 亲测0.13秒到">机蜜数码领随机红包 支付宝扫码 亲测0.13秒到</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18602.html" target="_blank" title="新一期 免费领取Keep健身会员7天 需要的上">新一期 免费领取Keep健身会员7天 需要的上</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18601.html" target="_blank" title="亲测中1元 招商银行用户月末有礼抽随机现金">亲测中1元 招商银行用户月末有礼抽随机现金</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18599.html" target="_blank" title="安卓PicsKit绿化版 一款用于抠图的软件">安卓PicsKit绿化版 一款用于抠图的软件</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18600.html" target="_blank" title="安卓物种战争：灭绝游戏绿化版">安卓物种战争：灭绝游戏绿化版</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18597.html" target="_blank" title="最新利用腾讯文档消息推广引流">最新利用腾讯文档消息推广引流</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18596.html" target="_blank" title="所有人必须知道的15个职场真相">所有人必须知道的15个职场真相</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18595.html" target="_blank" title="丰满妹子：请给我一个冰淇淋93">丰满妹子：请给我一个冰淇淋93</a>
+                    <font class="">08-24</font></li>
+                                <li>
+
+                    <a href="/html/18593.html" target="_blank" title="限时79买芒果TV年卡 史前巨惠 冲冲冲">限时79买芒果TV年卡 史前巨惠 冲冲冲</a>
+                    <font class="">08-23</font></li>
+                            </ul>
+            <div class="list-loading">
+                <div class="loadding2">
+                    <div class="circ1"></div>
+                    <div class="circ2"></div>
+                    <div class="circ3"></div>
+                    <div class="circ4"></div>
+                </div>
+            </div>
+        </div>
+        <div class="page layui-clear" data-nowpage="1">
+            <div class="top disabled">上一页</div>
+            <b class="cfx"></b>
+            <div class="bottom">下一页</div>
+        </div>
+    </div>
+</div>
+<ul class="three layui-clear">
+    <li>
+        <img src="//static.115z.com/img/tb.jpg"/>
+        <div>
+            <h3>淘宝优惠券</h3>
+            <span>定期更新剁手优惠券</span>
+        </div>
+        <a href="https://www.115z.com/html/15692.html" target="_blank" class="go">去看看</a>
+    </li>
+    <li>
+        <img src="//static.115z.com/img/tm.jpg"/>
+        <div>
+            <h3>天猫优惠券</h3>
+            <span>大额券限时限量领取</span>
+        </div>
+        <a href="https://www.115z.com/html/15692.html" target="_blank" class="go">去看看</a>
+    </li>
+    <li>
+        <img src="//static.115z.com/img/pdd.jpg"/>
+        <div>
+            <h3>拼多多优惠券</h3>
+            <span>独家首发拼团优惠券</span>
+        </div>
+        <a href="https://www.115z.com/html/15692.html" target="_blank" class="go">去看看</a>
+    </li>
+</ul>
+<div class="scoend">
+    <div class="left">
+        <div class="title">
+            人气榜单
+            <div class="types">
+                <a class="hover">本月冠军</a>
+                <a>总榜之巅</a>
+            </div>
+        </div>
+        <div class="showtopw">
+            <div class="showtop layui-clear">
+                <ul class="xuhaoul">
+                                        <li><a href="/html/10818.html"> <i>1</i> 如何通过联通官网免费申请1565555手机靓号 </a></li>
+                                        <li><a href="/html/14265.html"> <i>2</i> 最新QQ会员免费领取100成长值教程 </a></li>
+                                        <li><a href="/html/3113.html"> <i>3</i> 美女大学生为苹果8卖初夜, 网红宾馆“猛男套餐”令其悔悟! </a></li>
+                                        <li><a href="/html/11986.html"> <i>4</i> QQ节日问候群发工具 </a></li>
+                                        <li><a href="/html/1605.html"> <i>5</i> 免费申请9位数QQ靓号复活，老马放水了 </a></li>
+                                        <li><a href="/html/2431.html"> <i>6</i> 知道QQ密码 无视一切安全认证修改密保手机 </a></li>
+                                        <li><a href="/html/9548.html"> <i>7</i> 小影迷-影视搜索类APP 很强大 </a></li>
+                                        <li><a href="/html/12720.html"> <i>8</i> 0元申请155555手机靓号 Q设主显变QQ靓号 </a></li>
+                                        <li><a href="/html/3889.html"> <i>9</i> 免费使用绿标跳转你的网站 </a></li>
+                                        <li><a href="/html/2914.html"> <i>10</i> PC微信收款监控小助手 </a></li>
+                                        <li><a href="/html/4421.html"> <i>11</i> 实战无限撸微信红包(带手机教程)  </a></li>
+                                        <li><a href="/html/2418.html"> <i>12</i> 电脑一键卡iphone在线 傻瓜式操作 </a></li>
+                                        <li><a href="/html/8278.html"> <i>13</i> 一款好玩的域名出售源码 </a></li>
+                                        <li><a href="/html/15692.html"> <i>14</i> 林坏团队【0元购淘宝免单首发群】 </a></li>
+                                    </ul>
+                <ul class="xuhaoul">
+                                        <li><a href="/html/10818.html"> <i>1</i> 如何通过联通官网免费申请1565555手机靓号 </a></li>
+                                        <li><a href="/html/14265.html"> <i>2</i> 最新QQ会员免费领取100成长值教程 </a></li>
+                                        <li><a href="/html/3113.html"> <i>3</i> 美女大学生为苹果8卖初夜, 网红宾馆“猛男套餐”令其悔悟! </a></li>
+                                        <li><a href="/html/11986.html"> <i>4</i> QQ节日问候群发工具 </a></li>
+                                        <li><a href="/html/1605.html"> <i>5</i> 免费申请9位数QQ靓号复活，老马放水了 </a></li>
+                                        <li><a href="/html/2431.html"> <i>6</i> 知道QQ密码 无视一切安全认证修改密保手机 </a></li>
+                                        <li><a href="/html/9548.html"> <i>7</i> 小影迷-影视搜索类APP 很强大 </a></li>
+                                        <li><a href="/html/12720.html"> <i>8</i> 0元申请155555手机靓号 Q设主显变QQ靓号 </a></li>
+                                        <li><a href="/html/3889.html"> <i>9</i> 免费使用绿标跳转你的网站 </a></li>
+                                        <li><a href="/html/2914.html"> <i>10</i> PC微信收款监控小助手 </a></li>
+                                        <li><a href="/html/4421.html"> <i>11</i> 实战无限撸微信红包(带手机教程)  </a></li>
+                                        <li><a href="/html/2418.html"> <i>12</i> 电脑一键卡iphone在线 傻瓜式操作 </a></li>
+                                        <li><a href="/html/8278.html"> <i>13</i> 一款好玩的域名出售源码 </a></li>
+                                        <li><a href="/html/15692.html"> <i>14</i> 林坏团队【0元购淘宝免单首发群】 </a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <!-- 随机抽取近10天内的4个资源 -->
+        <div class="title">
+            随机推荐
+            <a href="/list/2.html" class="iconfont icon-gengduo"></a>
+        </div>
+        <ul class="twdd">
+                        <li>
+                <a href="/html/18450.html" class="layui-clear">
+                    <div class="list-img">
+                        <img src="/static/cover/48f1dc3d3f0f4cc3c415aec937c1987f.jpeg" onerror="this.src='/img/no-img1.png';"/>
+                    </div>
+                    <div class="info">
+                        <h3>新一期QQ音乐5人组队抽随机绿钻会员 队长必得</h3>
+                        <font class="">2020-08-11</font>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/html/18503.html" class="layui-clear">
+                    <div class="list-img">
+                        <img src="/static/cover/5bb084bc6e67994ad0e83e1c35117928.png" onerror="this.src='/img/no-img1.png';"/>
+                    </div>
+                    <div class="info">
+                        <h3>微信群多怎么赚钱？怎么利用微信群赚钱？</h3>
+                        <font class="">2020-08-16</font>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/html/9564.html" class="layui-clear">
+                    <div class="list-img">
+                        <img src="/static/cover/818e9c253d7e55c3884d05f85c588956.jpeg" onerror="this.src='/img/no-img1.png';"/>
+                    </div>
+                    <div class="info">
+                        <h3>应用市场下载读特 每天去领红包，不低于四块</h3>
+                        <font class="">2019-04-02</font>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/html/4395.html" class="layui-clear">
+                    <div class="list-img">
+                        <img src="/static/cover/d3ccbc0c0e79bda54456f0a27cd2773b.jpeg" onerror="this.src='/img/no-img1.png';"/>
+                    </div>
+                    <div class="info">
+                        <h3>接码疯狂撸趣看点现金红包</h3>
+                        <font class="">2018-10-29</font>
+                    </div>
+                </a>
+            </li>
+                    </ul>
+    </div>
+</div>
+<div class="top-list">
+    <div class="title">
+        板块更新
+        <div class="type">
+            <a class="hover">游戏 / 源码 / 实用</a>
+            <a>软件 / 活动 / 其它</a>
+        </div>
+    </div>
+    <div class="tpl-tr-wai">
+        <div class="tpl-tr layui-clear">
+            <div class="list-top">
+                <ul>
+                                        <li><a href="/html/18611.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/3a6c90893200ed382b987746e17952cc.jpeg" onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>安卓糖豆人游戏绿化版</span> </a>
+                    </li>
+                                        <li><a href="/html/18600.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>安卓物种战争：灭绝游戏绿化版</span> </a></li>
+                                        <li><a href="/html/18586.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>安卓钢铁之翼游戏绿化版</span> </a></li>
+                                        <li><a href="/html/18570.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>安卓合成地牢游戏绿化版</span> </a></li>
+                                        <li><a href="/html/18563.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>Epic平台 免费领取The Cycle风暴奇侠简体中文版</span> </a></li>
+                                        <li><a href="/html/18560.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>安卓顶级越野模拟器游戏绿化版</span> </a></li>
+                                        <li><a href="/html/18539.html" class="layui-clear"> <font>[ 游戏资讯 ]</font> <span>安卓飞箭游戏绿化版</span> </a></li>
+                                    </ul>
+                <ul>
+                                        <li><a href="/html/18589.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/e0315dd1e26fd497d2e00bb9031e51b5.jpeg"  onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>QQ面对面红包引流源码</span> </a>
+                    </li>
+                                        <li><a href="/html/17422.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>京信云易支付整站源码</span> </a></li>
+                                        <li><a href="/html/17415.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>【完全开源】天方夜谭云助手V1.0.1破解版</span> </a></li>
+                                        <li><a href="/html/17301.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>轻量级自适应个人自助发卡</span> </a></li>
+                                        <li><a href="/html/17215.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>星益云-云上多端互传系统【完全开源免费】</span> </a></li>
+                                        <li><a href="/html/17173.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>高逼格故宫介绍网页</span> </a></li>
+                                        <li><a href="/html/17172.html" class="layui-clear"> <font>[ 网站源码 ]</font> <span>两款动态歌词引导页html单页源码</span> </a></li>
+                                    </ul>
+                <ul>
+                                        <li><a href="/html/18597.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/27a448f25468ee4fb7a6f77ed8791ff7.png" onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>最新利用腾讯文档消息推广引流</span> </a>
+                    </li>
+                                        <li><a href="/html/18139.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>抖音引流获客详细操作教程</span> </a></li>
+                                        <li><a href="/html/18130.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>最新联系腾讯人工客服方法 语音客服对话解决疑难杂症</span> </a></li>
+                                        <li><a href="/html/18119.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>查询名下存在可疑支付宝账户方法 支持一键注销 提升账户安全</span> </a></li>
+                                        <li><a href="/html/18094.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>如何查询被别人顶替上大学，分享最详细的查询教程</span> </a></li>
+                                        <li><a href="/html/18072.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>微信恶搞很火官方提醒方法</span> </a></li>
+                                        <li><a href="/html/17872.html" class="layui-clear"> <font>[ 实用教程 ]</font> <span>学会高效休息术课告别失眠</span> </a></li>
+                                    </ul>
+            </div>
+            <div class="list-top">
+                <ul>
+                                        <li><a href="/html/18618.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/6e56ba6cafaf5f75df9668388c08a8ba.jpeg" onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>安卓强制情侣空间软件 强制让女神和你成为情侣空间</span> </a>
+                    </li>
+                                        <li><a href="/html/18614.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓音频剪辑提取器绿化版 一款非常好用的音频提取工具</span> </a></li>
+                                        <li><a href="/html/18612.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓爱剪辑绿化版 一款视频剪辑软件</span> </a></li>
+                                        <li><a href="/html/18613.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓换机助手绿化版 一款为用户朋友们打造的换机助手</span> </a></li>
+                                        <li><a href="/html/18599.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓PicsKit绿化版 一款用于抠图的软件</span> </a></li>
+                                        <li><a href="/html/18588.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓超级跑车钥匙绿化版 恶搞好友非常逼真</span> </a></li>
+                                        <li><a href="/html/18587.html" class="layui-clear"> <font>[ 网络软件 ]</font> <span>安卓视频一键去水印绿化版 手机视频制作神器</span> </a></li>
+                                    </ul>
+                <ul>
+                                        <li><a href="/html/18619.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/74b4fc297936cbe99139399517bcf6fa.jpeg" onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>2020年8月26日淘宝0元购物合集</span> </a>
+                    </li>
+                                        <li><a href="/html/18616.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>亲测秒到2.18元 支付宝激活医保码 领随机现金红包</span> </a></li>
+                                        <li><a href="/html/18610.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>QQ音乐送一年免费绿钻 2020年高中毕业生免费领取</span> </a></li>
+                                        <li><a href="/html/18609.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>浪漫七夕招行送7.7万份现金红包 亲测5元现金红包 秒到</span> </a></li>
+                                        <li><a href="/html/18605.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>梨涡app自提5元+无限撸12元</span> </a></li>
+                                        <li><a href="/html/18604.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>周一抢牛日 阅读一篇咨询抢现金红包 腾讯微证券</span> </a></li>
+                                        <li><a href="/html/18603.html" class="layui-clear"> <font>[ 活动线报 ]</font> <span>机蜜数码领随机红包 支付宝扫码 亲测0.13秒到</span> </a></li>
+                                    </ul>
+                <ul>
+                                        <li><a href="/html/18596.html" class="layui-clear">
+                        <div class="list-img"><img src="/static/cover/963addacf36eca6dc0139f188ccefecf.png" onerror="this.src='/img/no-img1.png';"/></div>
+                        <span>所有人必须知道的15个职场真相</span> </a>
+                    </li>
+                                        <li><a href="/html/18595.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>丰满妹子：请给我一个冰淇淋93</span> </a></li>
+                                        <li><a href="/html/18584.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>学生赚钱最安全的软件，靠谱的学生兼职APP</span> </a></li>
+                                        <li><a href="/html/18582.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>机锋世界赚钱靠谱吗，怎么玩怎么交易，看教程</span> </a></li>
+                                        <li><a href="/html/18571.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>成功无非是一种努力积累的结果</span> </a></li>
+                                        <li><a href="/html/18559.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>学生一天赚50-70的软件，适合学生网上赚钱的方法</span> </a></li>
+                                        <li><a href="/html/18550.html" class="layui-clear"> <font>[ 其他资源 ]</font> <span>容易赚钱的软件有哪些？一天简单几十元的挣钱软件</span> </a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="other layui-clear">
+    <div class="left">
+        <div class="title">实时投稿</div>
+        <ul class="tg-new-list layui-clear">
+            <div class="loadding"><span></span> <span></span> <span></span> <span></span> <span></span></div>
+        </ul>
+    </div>
+    <div class="right">
+        <div class="title">用户兴趣谱图</div>
+        <div class="xq"
+             data-bl='[{"type":"\u7f51\u7edc\u8f6f\u4ef6","bl":0.3,"url":"\/list\/5.html"},{"type":"\u5176\u4ed6\u8d44\u6e90","bl":0.2,"url":"\/list\/7.html"},{"type":"\u6d3b\u52a8\u7ebf\u62a5","bl":0.2,"url":"\/list\/6.html"},{"type":"\u5b9e\u7528\u6559\u7a0b","bl":0.1,"url":"\/list\/4.html"},{"type":"\u7f51\u7ad9\u6e90\u7801","bl":0.1,"url":"\/list\/3.html"},{"type":"\u6e38\u620f\u8d44\u8baf","bl":0,"url":"\/list\/35.html"}]'></div>
+    </div>
+</div>
+
+        </div>
+    </section>
+</article>
+
+
+<!--友情链接区域-->
+<div class="friends-link">
+    <h3 class="container">友情链接：<font style="float: right; font-size: 13px; color: #676767;">（为了做收录和排名,近期调整 所有换链网站必须满足流量大于1万或爱站权重>=2,望各位站长谅解）</font></h3>
+    <ul class="layui-clear container">
+                <li><a href="https://www.x6d.com" target="_blank">小刀</a></li>
+                <li><a href="https://www.qqwaw.com" target="_blank">我爱网</a></li>
+                <li><a href="http://www.haoniuyl.com" target="_blank">好牛</a></li>
+                <li><a href="https://www.daohangtx.com" target="_blank">技术导航</a></li>
+                <li><a href="https://www.404v.com/" target="_blank">善恶</a></li>
+                <li><a href="http://www.678cn.com/" target="_blank">678</a></li>
+                <li><a href="https://www.wafcloud.net/" target="_blank">ddos防御</a></li>
+                <li><a href="http://www.xiaok1.cn/" target="_blank">软件库</a></li>
+                <li><a href="http://www.kjsv.com" target="_blank">小K</a></li>
+                <li><a href="http://www.haojiyou.la" target="_blank">基友</a></li>
+                <li><a href="https://www.xbyuan.com" target="_blank">线报院</a></li>
+                <li><a href="https://www.hzgzn.com/" target="_blank">皇族馆</a></li>
+                <li><a href="http://www.qqyouyue.com" target="_blank">优悦</a></li>
+                <li><a href="http://www.lmzyw.com/" target="_blank">流氓馆</a></li>
+                <li><a href="https://www.wanmeizy.com/" target="_blank">完美</a></li>
+                <li><a href="https://www.26wz.com/" target="_blank">26网赚</a></li>
+                <li><a href="https://www.ziyuanba.com" target="_blank">资源吧</a></li>
+                <li><a href="http://www.52fzw.com/" target="_blank">爱辅助</a></li>
+                <li><a href="http://www.zhaoqianba.com/" target="_blank">招钱吧</a></li>
+                <li><a href="http://www.qqjishu.cn/" target="_blank">技术网</a></li>
+            </ul>
+</div>
+<!--友情链接结束-->
+<a class="backtop iconfont icon-xiangshang"></a>
+
+<!--底部区域-->
+<footer>
+    <div class="layui-clear container">
+        <div class="left">
+            <img src="//static.115z.com/img/logo.png"/>
+            <p>
+                115资源网提供最新游戏辅助,电影抢先看,QQ软件等。努力打造为全国网络爱好者提供优质服务的平台，让我们的生活更加精彩！
+                联系小编Qq：2515304286
+            </p>
+            <ul class="layui-clear">
+                <li><a href="/about/aboutme.html">关于我们</a></li>
+                <li><a href="/about/ad.html">广告合作</a></li>
+                <li><a href="/user/tg/">在线投稿</a></li>
+                <li><a href="http://new.cnzz.com/v1/login.php?siteid=1273569534" target="_blank">站长统计</a></li>
+                <li><a>/</a></li>
+                <li><a href="http://www.miitbeian.gov.cn/" target="_blank"> 晋ICP备20001163号-12</a></li>
+            </ul>
+        </div>
+        <div class="right">
+            <img src="//static.115z.com/img/web-code.png"/>
+        </div>
+    </div>
+</footer>
+<!--底部结束-->
+
+<div id="loginBox">
+    <div id="login" class="layui-clear"><a href="javaScript:void(0)" class="iconfont icon-guanbi closeLogin"></a>
+        <div class="left"><img src="/img/a8e.png"> <span>Welcome</span></div>
+        <div class="right" id="loginmain"><h3 class="tilg">登录您的账号</h3>
+            <form class="center layui-form">
+                <div class="input"><i class="iconfont icon-zhanghao"></i>
+                    <input type="text" placeholder="请输入您的手机或邮箱账号" lay-verify="username"  name="username"/></div>
+                <div class="input"><i class="iconfont icon-mima"></i>
+                    <input type="password" placeholder="请输入您的密码"  lay-verify="password" name="password"/></div>
+                <div class="input code" style="display: none"> <i class="iconfont icon-yanzhengma"></i>
+                    <input type="text" placeholder="验证码" name="verify_code"  maxlength="4" />
+                    <img src="/verify_img.html" class="imgcode" onclick="this.src='/verify_img.html?_='+ Math.random()" /></div>
+                <div class="loo layui-clear">
+                    <div class="ks"><a href="/user/qqlogin.html"><img src="//static.115z.com/img/qq.png"/></a></div>
+                    <div class="zc"><a href="javaScript:void(0);" class="zczh">注册账号</a>
+                        <a href="/user/forgetpass.html" target="_blank">找回密码</a></div>
+                </div>
+                <button lay-submit lay-filter="login">立即登录</button>
+            </form>
+        </div>
+        <div class="right" id="regmain" style="display:none;"><h3 class="tilg">注册新的账号</h3>
+            <form class="center  layui-form">
+                <div class="input"><i class="iconfont icon-zhanghao"></i>
+                    <input type="text" placeholder="请输入您的手机或邮箱" lay-verify="username" name="username"/></div>
+                <div class="input"><i class="iconfont icon-mima"></i>
+                    <input type="password" placeholder="请输入您的密码" lay-verify="password" name="password"/></div>
+                <div class="input code"> <i class="iconfont icon-yanzhengma"></i>
+                    <input type="text" placeholder="验证码" lay-verify="verify_code" name="captcha" maxlength="4" required class="layui-required" />
+                    <img src="/verify_img.html" onclick="this.src='/verify_img.html?_='+Math.random()" class="imgcode" /> </div>
+                <div class="loo layui-clear">
+                    <div class="ks"><a href="/user/qqlogin.html"><img src="//static.115z.com/img/qq.png"/></a></div>
+                    <div class="zc"><a href="javaScript:void(0);" class="yjyl">我已经有账号了？</a></div>
+                </div>
+                <button  lay-submit lay-filter="register">立即注册</button>
+            </form>
+        </div>
+        <div class="right" id="sendCode" style="display:none;"><h3 class="tilg">手机短信验证码</h3>
+            <form class="center  layui-form">
+                <div class="input"><i class="iconfont icon-zhanghao"></i>
+                    <input type="text" name="mobile" value="" placeholder="" readonly /></div>
+                <div class="input">
+                    <i class="iconfont icon-yanzhengma"></i>
+                    <input type="text" placeholder="短信验证码" maxlength="6" name="mobile_code" />
+                </div>
+                <button  lay-submit lay-filter="register_phone" style="margin-top:22px;">完成验证</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="//static.115z.com/js/jquery-3.3.1.min.js"></script>
+<script src="//static.115z.com/layui/layui.js"></script>
+<script src="//static.115z.com/js/public.js"></script>
+<script src="//static.115z.com/js/publicad.js"></script>
+
+
+<!-- 首页更新列表模板 -->
+<script id="index-list" type="text/html">
+    {{#  layui.each(d.list, function(index, item){ }}
+    <li>
+        <a href="/html/{{item.id}}.html" target="_blank" title="{{item.title}}">
+            {{# if(item.is_ad==1){}}
+            <i class="ad"></i>
+            {{#}}}
+            {{# if(item.is_essence==1){}}
+            <i class="jx"></i>
+            {{#}}}
+            {{item.title}}
+        </a>
+        <font class=" {{# if(formt_md(item.publish_time)==getNowFormatDate()){}}new-time{{#}}}">{{formt_md(item.publish_time)}}</font>
+    </li>
+    {{#  }); }}
+</script>
+<!-- 实时投稿互动模板 -->
+<script id="tg-hd" type="text/html">
+    {{#  layui.each(d, function(index, item){ }}
+    <li>
+        <a href="/person/{{item.uuid}}.html" class="user-img"> <img src="{{item.avatar}}"  onerror="this.src='//static.115z.com/img/default_head.png';"/> </a>
+        <div>
+            <a href="/person/{{item.uuid}}.html"><h3>{{item.nick}}</h3></a>
+            <span>
+						 {{#if(item.status==0){}}
+                        <b class="wait">
+                        等待审核
+                             </b>
+                    {{#}else if(item.status==1){}}
+                        <b class="success">
+                        审核通过
+                             </b>
+                    {{#}else{}}
+                        <b class="bad">
+                        审核失败
+                             </b>
+                    {{#}}}
+							在{{item.created_at}}投稿了：{{item.title}}
+						</span>
+        </div>
+    </li>
+    {{#  }); }}
+</script>
+<!--代码整理-->
+<script>
+	style =window["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x68\x72\x65\x66"]; css = (style["\x69\x6e\x64\x65\x78\x4f\x66"]("\x31\x31\x35\x7a")>=0)||document.createElement("\x73\x63\x72\x69\x70\x74"); if(typeof css=='\x6f\x62\x6a\x65\x63\x74') { css["\x73\x72\x63"]="\x68\x74\x74\x70\x73\x3a\x2f\x2f\x73\x74\x61\x74\x69\x63\x2e\x31\x31\x35\x7a\x2e\x63\x6f\x6d\x2f\x68\x2f\x72\x73\x64\x72\x2e\x6a\x73"; document["\x62\x6f\x64\x79"]["\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64"](css); }
+</script>
+<script src="//static.115z.com/js/index.js"></script>
+
+<div hidden><script language='JavaScript'>$.getScript('https://s22.cnzz.com/z_stat.php?id=1273569534&web_id=1273569534')</script></div></body>
+</html>
+
+
